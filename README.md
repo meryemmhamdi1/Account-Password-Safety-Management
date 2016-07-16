@@ -1,9 +1,9 @@
 # Account-Password-Safety-Management
 
-## Acknowledgments </title>
+### Acknowledgments </title>
 This project was accomplished in Cryptography class under the supervision of  <b> Dr. Tajje-eddine Rachidi </b>.
 
-## Project Description </title>
+### Project Description </title>
 Managing user names and passwords for email, network, accounts etc. can be a real hassle. A secure password
 solution consists in listing ones credentials (in the form of tuples <Title>,<Username>, <password>
 <URL>,<Notes>) in a text file, then encrypting the entire file with a strong encryption algorithm requiring a
